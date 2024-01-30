@@ -7,3 +7,22 @@ body{
     font-family: cursive;
     color: cyan;
 }
+
+h1 {
+    text-align: center;
+    text-shadow: 0 0 3px yellow, 0 0 5px yellow;
+}
+
+#subtitle {
+    text-align: center;
+}
+
+.food {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img {
+    border-radius: 25px;
+}
